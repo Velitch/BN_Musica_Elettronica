@@ -1,0 +1,175 @@
+
+//-----------------------ALLPASSEs
+
+//-----------------------Allpass with T60
+allpaxx(sig, delTime, T60)
+{
+Delay zeta(samplerate);
+Xn= sig;
+deltime= delTime*(samplerate/1000);
+espo=  (-3*(delTime*1000))/T60;
+g= pow(10, espo);
+menog= -1*g;
+
+
+del1= zeta.read(deltime);
+feedback= del1*menog;
+sum1=feedback+Xn;
+mul1= sum1*g;
+Yn= del1+mul1;
+zeta.write(sum1);
+	//out1= Yn;
+  return Yn;
+}
+
+//-----------------------Allpass with gain
+allpaxx_g(sig, delTime, gain)
+{
+Delay zeta(samplerate);
+Xn= sig;
+g= clamp(gain, 0., 0.999);
+menog= -1*g;
+
+
+del1= zeta.read(delTime);
+feedback= del1*menog;
+sum1=feedback+Xn;
+mul1= sum1*g;
+Yn= del1+mul1;
+zeta.write(sum1);
+	//out1= Yn;
+  return Yn;
+}
+
+//-----------------------LPCFs
+
+//-----------------------LPCF with T60
+lpcf(signal, delay, T60, fcut)
+{
+Delay zmm(samplerate);
+History zmuno(0);
+Xn= signal;
+delTime= delay*(samplerate/1000);
+espo=  (-3*(delay*1000))/T60;
+g= pow(10, espo);
+fc= fcut;
+
+//COMB
+zmmDel = zmm.read(delTime);
+zmmG = zmmDel*g;
+
+//LP
+omega = (twopi*fc)/samplerate;
+cosw = cos(omega);
+cosqw = cosw*cosw;
+
+alpha = cosw-1+sqrt(cosqw-4*(cosw)+3);
+unoMenoAlpha = 1-alpha;
+
+mol1= zmmG*alpha;
+del= zmuno*unoMenoAlpha;
+LP= mol1+del;
+
+zmuno2= fixdenorm(LP);
+zmuno= zmuno2;
+
+//COMB
+Yn= Xn+LP;
+
+zmm.write(Yn);
+return Yn;
+}
+
+//-----------------------LPCF with samps
+
+lpcf_samps(signal, delay, T60, fcut)
+{
+Delay zmm(samplerate);
+History zmuno(0);
+Xn= signal;
+espo=  (-3*(delay*1000))/T60;
+g= pow(10, espo);
+fc= fcut;
+
+//COMB
+zmmDel = zmm.read(delay);
+zmmG = zmmDel*g;
+
+//LP
+omega = (twopi*fc)/samplerate;
+cosw = cos(omega);
+cosqw = cosw*cosw;
+
+alpha = cosw-1+sqrt(cosqw-4*(cosw)+3);
+unoMenoAlpha = 1-alpha;
+
+mol1= zmmG*alpha;
+del= zmuno*unoMenoAlpha;
+LP= mol1+del;
+
+zmuno2= fixdenorm(LP);
+zmuno= zmuno2;
+
+//COMB
+Yn= Xn+LP;
+
+zmm.write(Yn);
+return Yn;
+}
+
+//-----------------------LPCF with samps Luca
+
+lowpasscombsamps(signal, samples, g, fc, Xn_mol)
+
+{
+Delay zmm(samplerate);
+History zmuno(0);
+
+Xn= signal*Xn_mol;
+
+g= clamp(g, 0., 0.999);
+fc= fc;
+
+	//COMB
+zmmDel = zmm.read(samples);
+zmmG = zmmDel*g;
+
+	//LP
+omega = (twopi*fc)/samplerate;
+cosw = cos(omega);
+cosqw = cosw*cosw;
+
+alpha = cosw-1+sqrt(cosqw-4*(cosw)+3);
+unoMenoAlpha = 1-alpha;
+
+mol1= zmmG*alpha;
+del= zmuno*unoMenoAlpha;
+LP= mol1+del;
+
+zmuno2= fixdenorm(LP);
+zmuno= zmuno2;
+
+	//COMB OUT
+Yn= Xn+LP;
+
+zmm.write(Yn);
+
+	return Yn;
+}
+
+//-----------------------FBCF
+
+fbcf (sig, delT, gain)
+{
+	Delay zmn(samplerate);
+	delTime = delT*(samplerate/1000);
+	g = clamp(gain, 0., 0.999);
+
+	zmnDel = zmn.read(delTime);
+	zmnG = zmnDel*g;
+	yn = sig+zmnG;
+
+	zmn.write(yn);
+
+return yn;
+}

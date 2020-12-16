@@ -1,0 +1,19 @@
+fbcomb (sig, delT, gain)
+
+{
+
+Delay delay_1(samplerate);
+
+del1 = delT * (samplerate/1000.);
+
+g = clamp(gain, 0., 0.9999);
+
+tap1 = delay_1.read(del1);
+delay1 = tap1 * g;
+
+combIIR1 = sig + delay1;
+
+delay_1.write(combIIR1);
+return combIIR1;
+
+}

@@ -1,0 +1,39 @@
+GVcomb (sig, ms, T60, lpcut, lpg)
+
+{
+
+Delay delay_1(samplerate);
+History history_2(0);
+
+del1 = ms * (samplerate/1000.);
+
+omega = ((lpcut * twopi)) / samplerate;
+
+cosw = cos(omega);
+cosq = cosw * cosw;
+alpha = (cosw - 1) + (sqrt((cosq - (4 * cosw)) + 3));
+expr_3 = alpha;
+
+mul_4 = history_2 * lpg;
+mul_5 = history_2 * -1.;
+
+tap_6 = delay_1.read(del1);
+
+del1 = ms * (samplerate/1000.);
+Tsessanta = T60;
+potenza = ((-3.)*(del1/1000.))/Tsessanta;
+g = pow(10,potenza);
+
+mul_7 = tap_6 * g;
+add_8 = sig + mul_7;
+
+add_9 = add_8 + mul_5;
+mul_10 = add_9 * expr_3;
+add_11 = mul_10 + mul_4;
+history_2_next_12 = fixdenorm(add_11);
+delay_1.write(add_11);
+history_2 = history_2_next_12;
+
+  return add_8;
+
+  }

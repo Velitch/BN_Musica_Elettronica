@@ -1,0 +1,270 @@
+{
+	"patcher" : 	{
+		"fileversion" : 1,
+		"appversion" : 		{
+			"major" : 8,
+			"minor" : 1,
+			"revision" : 6,
+			"architecture" : "x64",
+			"modernui" : 1
+		}
+,
+		"classnamespace" : "dsp.gen",
+		"rect" : [ 37.0, 0.0, 1044.0, 708.0 ],
+		"bglocked" : 0,
+		"openinpresentation" : 0,
+		"default_fontsize" : 12.0,
+		"default_fontface" : 0,
+		"default_fontname" : "Arial",
+		"gridonopen" : 1,
+		"gridsize" : [ 15.0, 15.0 ],
+		"gridsnaponopen" : 1,
+		"objectsnaponopen" : 1,
+		"statusbarvisible" : 2,
+		"toolbarvisible" : 1,
+		"lefttoolbarpinned" : 0,
+		"toptoolbarpinned" : 0,
+		"righttoolbarpinned" : 0,
+		"bottomtoolbarpinned" : 0,
+		"toolbars_unpinned_last_save" : 6,
+		"tallnewobj" : 0,
+		"boxanimatetime" : 200,
+		"enablehscroll" : 1,
+		"enablevscroll" : 1,
+		"devicewidth" : 0.0,
+		"description" : "",
+		"digest" : "",
+		"tags" : "",
+		"style" : "",
+		"subpatcher_template" : "",
+		"assistshowspatchername" : 0,
+		"boxes" : [ 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-11",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 707.0, 548.0, 35.0, 22.0 ],
+					"text" : "out 5"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 375.5, 548.0, 35.0, 22.0 ],
+					"text" : "out 3"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-9",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 541.0, 548.0, 35.0, 22.0 ],
+					"text" : "out 4"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-10",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 44.0, 548.0, 35.0, 22.0 ],
+					"text" : "out 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-4",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 707.0, 28.0, 28.0, 22.0 ],
+					"text" : "in 6"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-25",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 209.75, 548.0, 35.0, 22.0 ],
+					"text" : "out 2"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-8",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 574.600000000000023, 28.0, 28.0, 22.0 ],
+					"text" : "in 5"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-6",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 309.199999999999989, 28.0, 28.0, 22.0 ],
+					"text" : "in 3"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-7",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 441.800000000000011, 28.0, 28.0, 22.0 ],
+					"text" : "in 4"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"code" : "require \"Combfilter\";\r\n\r\n\r\n//RIVERBERO GLOBALE\r\n\r\nGcf1 = Combfilter (in1, 37, in2, in3, in4, in5);//sig, ms, T60, lpcut, lpg, allcut\r\n\r\nGcf2 = Combfilter (in1, 43, in2, in3, in4, in5);\r\n\r\nGcf3 = Combfilter (in1, 53, in2, in3, in4, in5);\r\n\r\nGcf4 = Combfilter (in1, 61, in2, in3, in4, in5);\r\n\r\nGcf5 = Combfilter (in1, 71, in2, in3, in4, in5);\r\n\r\nGcf6 = Combfilter (in1, 79, in2, in3, in4, in5);\r\n\r\nGcf7 = Combfilter (in1, 89, in2, in3, in4, in5);\r\n\r\nGcf8 = Combfilter (in1, 101, in2, in3, in4, in5);\r\n\r\nGcf9 = Combfilter (in1, 107, in2, in3, in4, in5);\r\n\r\nGcf10 = Combfilter (in1, 127, in2, in3, in4, in5);\r\n\r\n//RIVERBERO LOCALE\r\n\r\nLcf1 = Combfilter (in1, 37, in2, in3, in4, in5);//sig, ms, T60, lpcut, lpg, allcut\r\n\r\nLcf2 = Combfilter (in1, 43, in2, in3, in4, in5);\r\n\r\nLcf3 = Combfilter (in1, 53, in2, in3, in4, in5);\r\n\r\nLcf4 = Combfilter (in1, 61, in2, in3, in4, in5);\r\n\r\nLcf5 = Combfilter (in1, 71, in2, in3, in4, in5);\r\n\r\nLcf6 = Combfilter (in1, 79, in2, in3, in4, in5);\r\n\r\nLcf7 = Combfilter (in1, 89, in2, in3, in4, in5);\r\n\r\nLcf8 = Combfilter (in1, 101, in2, in3, in4, in5);\r\n\r\nLcf9 = Combfilter (in1, 107, in2, in3, in4, in5);\r\n\r\nLcf10 = Combfilter (in1, 127, in2, in3, in4, in5);\r\n\r\n\r\nGcfL = Gcf1+Gcf3+Gcf5+Gcf7+Gcf9;\r\nGcfR = Gcf2+Gcf4+Gcf6+Gcf8+Gcf10;\r\n\r\nLcfL = Lcf1+Lcf3+Lcf5+Lcf7+Lcf9;\r\nLcfR = Lcf2+Lcf4+Lcf6+Lcf8+Lcf10;\r\n\r\n\r\nLdiretto = in1 * (1./in6);\r\nLglobale = GcfL * (1./sqrt(in6));\r\nLlocale  = LcfL * (1. - (1./in6));\r\n\r\nRdiretto = in1 * (1./in6);\r\nRglobale = GcfR * (1./sqrt(in6));\r\nRlocale  = LcfR * (1. - (1./in6));\r\n\r\nout1 = Llocale + Lglobale + Ldiretto;\r\nout2 = Rlocale + Rglobale + Rdiretto;\r\n\r\nout3 = Ldiretto;\r\nout4 = Lglobale;\r\nout5 = Llocale;",
+					"fontface" : 0,
+					"fontname" : "Lucida Console",
+					"fontsize" : 12.0,
+					"id" : "obj-5",
+					"maxclass" : "codebox",
+					"numinlets" : 6,
+					"numoutlets" : 5,
+					"outlettype" : [ "", "", "", "", "" ],
+					"patching_rect" : [ 44.0, 53.0, 682.0, 487.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-1",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 44.0, 28.0, 28.0, 22.0 ],
+					"text" : "in 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "newobj",
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 176.599999999999994, 28.0, 28.0, 22.0 ],
+					"text" : "in 2"
+				}
+
+			}
+ ],
+		"lines" : [ 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 0 ],
+					"source" : [ "obj-1", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 1 ],
+					"source" : [ "obj-2", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 5 ],
+					"source" : [ "obj-4", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-10", 0 ],
+					"source" : [ "obj-5", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-11", 0 ],
+					"source" : [ "obj-5", 4 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-25", 0 ],
+					"source" : [ "obj-5", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"source" : [ "obj-5", 2 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-9", 0 ],
+					"source" : [ "obj-5", 3 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 2 ],
+					"source" : [ "obj-6", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 3 ],
+					"source" : [ "obj-7", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-5", 4 ],
+					"source" : [ "obj-8", 0 ]
+				}
+
+			}
+ ]
+	}
+
+}

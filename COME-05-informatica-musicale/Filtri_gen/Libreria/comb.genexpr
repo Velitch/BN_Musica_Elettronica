@@ -1,0 +1,13 @@
+comb (Xn, ms, gain)
+{
+Delay delay_1(samplerate);
+mul_3 = ms * samplerate/1000.;
+tap_4 = delay_1.read(mul_3);
+mul_5 = tap_4 * gain;
+add_6 = Xn + mul_5;
+
+return add_6;
+
+delay_1.write(Xn);
+
+}
