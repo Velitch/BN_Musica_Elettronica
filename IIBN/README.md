@@ -5,7 +5,7 @@
 
 ## [Storia (CODM-05)](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IIBN)
 
-- [video delle lezioni)](https://docs.google.com/spreadsheets/d/1u79cLFGaezfqla0tYWivf2Pw1BbEixb71PCU-84xoAo/edit#gid=0)
+- [video delle lezioni](https://docs.google.com/spreadsheets/d/1u79cLFGaezfqla0tYWivf2Pw1BbEixb71PCU-84xoAo/edit#gid=0)
 
 
 ## [Esecuzione (COME-01)]()
