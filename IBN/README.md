@@ -1,4 +1,4 @@
-# Repository del ciclo di Biennio di Gabriela Krassimirova Velitchkova
+# Repository del ciclo di Biennio di Gabriela Krassimirova Velitchkova - IBN
 
 <img src="https://github.com/SMERM/BN-Velitchkova/blob/master/Programma%20di%20studio/programma_IBN.jpg" width="1000">
 
@@ -14,7 +14,7 @@
 
 ## [Esecuzione (COME-01)](https://github.com/SMERM/BN-Velitchkova/tree/master/COME-01-esecuzione)
 
--[appunti Davide Tedesco](https://gitlab.com/SMERM/BN-Tedesco/-/tree/master/COME-01)
+- [appunti Davide Tedesco](https://gitlab.com/SMERM/BN-Tedesco/-/tree/master/COME-01)
 
 
 ## [Composizione (COME-02)](https://github.com/SMERM/BN-Velitchkova/tree/master/COME-02-composizione)
