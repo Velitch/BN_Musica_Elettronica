@@ -2,6 +2,8 @@
 
 <img src="https://github.com/SMERM/BN-Velitchkova/blob/master/Programma%20di%20studio/programma_IBN.jpg" width="1000">
 
+# Esami da svolgere:
+
 ## [Analisi compositiva (CODC-01)](https://github.com/SMERM/BN-Velitchkova/tree/master/CODC-01-analisi-compositiva)
 
 - [Drive](https://drive.google.com/drive/folders/1UeiQTLP3fVcYGurGy7sc-_PFf4tllBSp)
