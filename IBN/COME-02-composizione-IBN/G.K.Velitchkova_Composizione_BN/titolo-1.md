@@ -32,12 +32,12 @@
 
 ______________
 
-## Forma e regole compositive:
+# Forma e regole compositive:
 
 
-### Preludio
+## Preludio
 
-**Scena 1: breve (1 < durata < 2'); (bajan, clarinetto)
+**Scena 1: breve (1 < durata < 2'); (bajan, clarinetto)**
 
 
 Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a definire il carattere del respiro affinché si noti il contrasto con la **scena 3**. **Clarinetto** e **bajan** attaccano all'unisono. La coda del **bajan** é piú lenta: contiene residui del **clarinetto**. Tra i due c'é impasto timbrico. 
