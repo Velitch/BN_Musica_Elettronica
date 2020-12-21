@@ -51,7 +51,7 @@ ______________
 
 ## Catalogo Suono-Forma
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" widht=200>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=200>
 
 ______________
 
