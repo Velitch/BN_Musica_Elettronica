@@ -27,15 +27,24 @@
 
 **carattere:** presente, ridondante. E' causato dalle **percussioni**, ma viene richiamato dal **bajan**.
 
+
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/img/schema_strumentale.jpg" >
 
 ______________
 
 ## Forma e regole compositive:
 
-### - Scena 1: breve (14" < durata < 1'); (bajan, clarinetto)
 
-Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a definire il carattere del respiro affinché si noti il contrasto con la **scena 3**.
+### Preludio
+
+**Scena 1: breve (1 < durata < 2'); (bajan, clarinetto)
+
+
+Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a definire il carattere del respiro affinché si noti il contrasto con la **scena 3**. **Clarinetto** e **bajan** attaccano all'unisono. La coda del **bajan** é piú lenta: contiene residui del **clarinetto**. Tra i due c'é impasto timbrico. 
+
+In questa scena vengono presentati: suoni forma, eventi sonori. Il carattere é neutro
+
+Non si nota una tensione risolutiva o di evoluzione
 
 
 ### - Scena 2: semi-breve (1'20" < durata < 2'); (clarinetto, percussioni, (bajan ed elettronica per passaggio a **scena 3**))
