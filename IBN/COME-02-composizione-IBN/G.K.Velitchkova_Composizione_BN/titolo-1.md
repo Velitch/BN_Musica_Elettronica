@@ -32,6 +32,29 @@
 
 ______________
 
+# Caratteri
+
+
+## Stasi sonora:
+
+- Eventi sonori di lunga durata
+
+- No macro-variazioni; Si micro-variazioni
+
+- Feedback su impulso
+
+- Contrappunto su tono
+
+- Figura statica; Sfondo dinamico
+
+______________
+
+## Catalogo Suono-Forma
+
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=300><img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=300>
+
+______________
+
 # Forma e regole compositive:
 
 
@@ -40,11 +63,9 @@ ______________
 ### Scena 1: breve (1 < durata < 2'); (bajan, clarinetto)
 
 
-Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a definire il carattere del respiro affinché si noti il contrasto con la **scena 3**. **Clarinetto** e **bajan** attaccano all'unisono. La coda del **bajan** é piú lenta: contiene residui del **clarinetto**. Tra i due c'é impasto timbrico. 
+Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a definire il carattere del respiro affinché si noti il contrasto con la **scena 3**. Spesso **clarinetto** e **bajan** attaccano all'unisono. La coda del **bajan** é piú lenta: contiene residui del **clarinetto**. Tra i due c'é impasto timbrico. 
 
-In questa scena vengono presentati: suoni forma, eventi sonori. Il carattere é neutro
-
-Non si nota una tensione risolutiva o di evoluzione
+In questa scena vengono presentati: suoni forma, eventi sonori (breve durata). Il carattere é neutro, stabile, privo di narrazione. Non si nota una tensione risolutiva o di evoluzione.
 
 
 ### - Scena 2: semi-breve (1'20" < durata < 2'); (clarinetto, percussioni, (bajan ed elettronica per passaggio a **scena 3**))
@@ -76,7 +97,7 @@ Contrappunto tra impulso e texture.
 - L'**elettronica** manda in feedback il respiro. 
 
 
-## - Scena 4:
+## - Scena 4: ?
 
 Un evento segna la svolta. Il **clarinetto** esprime tutto il contenuto/materiale sedimentato. Il **bajan** si risveglia, riesce a coesistere nel presente insieme al **clarinetto**, sostenendolo nella sua espressione. Svanisce il contrasto ricordo-presente. Il **clarinetto** vuole iniziare una nuova **scena x**, ha tensione risolutiva. L'**elettronica** é comunque presente, ormai é carattere del presente, non piu pesante, ma collaborativa/integrata. 
 
