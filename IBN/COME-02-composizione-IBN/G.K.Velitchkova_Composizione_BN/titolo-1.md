@@ -1,8 +1,8 @@
 ## Link
 
-(machajdik.com)[https://www.machajdik.com/BAYAN.html]
+[machajdik.com](https://www.machajdik.com/BAYAN.html)
 
-(chat estensione bajan)[https://it-alt.arti.musica.strumenti.fisarmonica.narkive.com/vCEyerfh/bayan]
+[chat estensione bajan](https://it-alt.arti.musica.strumenti.fisarmonica.narkive.com/vCEyerfh/bayan)
 
 ## Gerarchie
 
