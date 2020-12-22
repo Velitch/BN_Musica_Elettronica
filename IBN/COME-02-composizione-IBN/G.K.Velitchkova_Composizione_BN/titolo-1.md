@@ -55,7 +55,7 @@ ______________
 
 ## 2 flussi:
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=300><img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=300>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=320><img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=320><img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/3.jpg" width=320>
 
 ______________
 
@@ -106,10 +106,7 @@ Contrappunto tra impulso e texture.
 - L'**elettronica** manda in feedback il respiro. 
 
 
-## - Scena 4: ?
-
-Un evento segna la svolta. Il **clarinetto** esprime tutto il contenuto/materiale sedimentato. Il **bajan** si risveglia, riesce a coesistere nel presente insieme al **clarinetto**, sostenendolo nella sua espressione. Svanisce il contrasto ricordo-presente. Il **clarinetto** vuole iniziare una nuova **scena x**, ha tensione risolutiva. L'**elettronica** é comunque presente, ormai é carattere del presente, non piu pesante, ma collaborativa/integrata. 
-
+## - Scena 4: 
 
 
 ______________
