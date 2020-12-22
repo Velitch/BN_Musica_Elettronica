@@ -1,4 +1,7 @@
-## Strumenti:
+## Gerarchia formale
+
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/img/schema_strumentale.jpg" >
+
 
 ### - Bajan:
 
@@ -16,6 +19,8 @@
 
 ### - Percussioni: 
 
+**organico strumentale**: tam tam, timpano, glockenspiel, vibrafono
+
 **significato/identitá**: antagonista del respiro
 
 **carattere:** fugace, appare sporadicamente. Rappresenta l'istante nel presente. Ha forti legami con il **Live electonics**, ne é la causa.
@@ -26,9 +31,6 @@
 **significato/identitá:** antagonista del respiro
 
 **carattere:** presente, ridondante. E' causato dalle **percussioni**, ma viene richiamato dal **bajan**.
-
-
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/img/schema_strumentale.jpg" >
 
 ______________
 
@@ -41,7 +43,7 @@ ______________
 
 - No macro-variazioni; Si micro-variazioni
 
-- Feedback su impulso
+- Feedback su impulso; Risonanze
 
 - Contrappunto su tono
 
@@ -56,6 +58,11 @@ ______________
 ______________
 
 # Forma e regole compositive:
+
+
+## Sempre verdi:
+
+- Gli strumenti eseguono forme semplici. Il virtuosismo risiede nella fusione timbrica/ritmica. 
 
 
 ## Preludio
