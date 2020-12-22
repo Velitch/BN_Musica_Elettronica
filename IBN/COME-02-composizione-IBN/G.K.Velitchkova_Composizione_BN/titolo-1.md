@@ -1,4 +1,4 @@
-## Gerarchia formale
+## Gerarchie
 
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/img/schema_strumentale.jpg" >
 
@@ -53,29 +53,58 @@ ______________
 
 ## Catalogo Suono-Forma
 
-### Definizioni
+### Tag
 
-**macro:** focus esterno
+- **frase:** segmento composto, articolato.
 
-**micro:** focus interno
+- **frequenziale**
+
+- **macro:** focus esterno
+
+- **micro:** focus interno
+
+- **ritmico**
+
+- **suono-forma**
+
+- **suono-segnale**
+
+- **tensione**
+
+- **texture**
 
 ## 2 flussi:
 
-### Trasformazione della linea (macro)
+### Trasformazione della linea
+
+**tag:** micro; frequenziale; texture;
+
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=320>
 
-### Breve contrappunto di glissandi con unisono (macro)
+### Breve contrappunto di tensioni con unisono 
+
+**tag:** macro; tensione; suono-forma
+
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=320>
 
-### Contrappunto risonante con linee fugaci (macro)
+### Contrappunto risonante con linee fugaci
+
+**tag:** macro; frase; ritmico; frequenziale;  
+
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/3.jpg" width=320>
 
-### Contrappunto - cesura - continuo (macro)
+### Contrappunto - cesura - continuo
+
+**tag:** macro; suono-forma; ritmico; frequenziale;
+
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4.jpg" width=320>
 
 ## 4 flussi:
 
-### - Code battenti (micro)
+### - Coda battente
+
+**tag:** micro; texture; frequenziale; ritmico;
+
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4_1.jpg" width=320>
 
 ______________
@@ -125,9 +154,5 @@ Contrappunto tra impulso e texture.
 - Nella **scena 3** le **percussioni** non ci sono quasi piú, ne rimane solo il ricordo petulante (**live electronics**). Ma sporadicamente ricompaiono, distruggendo tutto ció che il **clarinetto** aveva concretizzato nel mentre.
 
 - L'**elettronica** manda in feedback il respiro. 
-
-
-## - Scena 4: 
-
 
 ______________
