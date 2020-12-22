@@ -53,6 +53,8 @@ ______________
 
 ## Catalogo Suono-Forma
 
+## 2 flussi:
+
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=300><img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=300>
 
 ______________
