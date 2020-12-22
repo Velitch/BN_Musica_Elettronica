@@ -55,7 +55,7 @@ ______________
 
 ## 2 flussi:
 
-### 
+### Trasformazione della linea
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=320>
 
 ### Breve contrappunto di glissandi con unisono
