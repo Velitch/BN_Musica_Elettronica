@@ -1,4 +1,4 @@
-## Gerarchia formale
+## Gerarchie
 
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/img/schema_strumentale.jpg" >
 
