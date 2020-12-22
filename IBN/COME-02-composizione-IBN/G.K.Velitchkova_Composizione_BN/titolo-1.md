@@ -116,6 +116,7 @@ ______________
 
 - Gli strumenti eseguono forme semplici. Il virtuosismo risiede nella fusione timbrica/ritmica. 
 
+- **Ripetizione** come carattere espressivo: richiesta di affioramento; pretesa d'ascolto;
 
 ## Preludio
 
