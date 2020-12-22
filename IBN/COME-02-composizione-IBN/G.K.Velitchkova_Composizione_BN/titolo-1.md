@@ -77,7 +77,7 @@ ______________
 
 ### Trasformazione della linea
 
-**tag:** micro;
+**tag:** micro; frequenziale; texture;
 
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=320>
 
@@ -89,7 +89,7 @@ ______________
 
 ### Contrappunto risonante con linee fugaci
 
-**tag:** macro; 
+**tag:** macro; frase; ritmico; frequenziale;  
 
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/3.jpg" width=320>
 
@@ -101,9 +101,9 @@ ______________
 
 ## 4 flussi:
 
-### - Code battenti 
+### - Coda battente
 
-**tag:** micro; texture; frequenziale; ritmico
+**tag:** micro; texture; frequenziale; ritmico;
 
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4_1.jpg" width=320>
 
