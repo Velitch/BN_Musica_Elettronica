@@ -53,23 +53,29 @@ ______________
 
 ## Catalogo Suono-Forma
 
+### Definizioni
+
+**macro:** focus esterno
+
+**micro:** focus interno
+
 ## 2 flussi:
 
-### Trasformazione della linea
+### Trasformazione della linea (macro)
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=320>
 
-### Breve contrappunto di glissandi con unisono
+### Breve contrappunto di glissandi con unisono (macro)
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=320>
 
-### Contrappunto risonante con linee fugaci
+### Contrappunto risonante con linee fugaci (macro)
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/3.jpg" width=320>
 
-### Contrappunto - cesura - continuo
+### Contrappunto - cesura - continuo (macro)
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4.jpg" width=320>
 
 ## 4 flussi:
 
-### - Code battenti
+### - Code battenti (micro)
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4_1.jpg" width=320>
 
 ______________
