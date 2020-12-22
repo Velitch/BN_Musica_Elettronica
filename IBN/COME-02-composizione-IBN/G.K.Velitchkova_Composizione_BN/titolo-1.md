@@ -69,7 +69,7 @@ ______________
 
 ## 4 flussi:
 
-### - Code risonanti
+### - Code battenti
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4_1.jpg" width=320>
 
 ______________
