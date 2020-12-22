@@ -155,8 +155,4 @@ Contrappunto tra impulso e texture.
 
 - L'**elettronica** manda in feedback il respiro. 
 
-
-## - Scena 4: 
-
-
 ______________
