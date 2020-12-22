@@ -61,7 +61,7 @@ ______________
 ### Breve contrappunto di glissandi con unisono
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=320>
 
-### Contrappunto risonante con linee vibranti
+### Contrappunto risonante con linee fugaci
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/3.jpg" width=320>
 
 ### Contrappunto - cesura - continuo
