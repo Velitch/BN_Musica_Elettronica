@@ -11,3 +11,8 @@ Corso di "Composizione musicale elettroacustica", I BN 2019/2020 - M. Nicola Ber
 **Articoli:**
 
 - [Cantare invece di parlare](http://updop.org/2013/01/13/cantare-invece-di-parlare-introduzione-alla-drammaturgia-musicale-_-riccardo-pecci/)
+
+
+**Ascolti:**
+
+- [Sofia Gubaidulina - Offertorium](https://www.youtube.com/watch?v=xvHeTWOfL1c)
