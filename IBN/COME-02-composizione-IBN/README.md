@@ -25,6 +25,8 @@ Corso di "Composizione musicale elettroacustica", I BN 2019/2020 - M. Nicola Ber
 
 - [Luciano Berio - Sequenza XIII, per fisarmonica (1996) (w/score)](https://www.youtube.com/watch?v=3ofQJeuz_Js)
 
+- [Salvatore Sciarrino - Vagabonde Blu for Accordion (1998) (w/score)](https://www.youtube.com/watch?v=c4gAQDFoqf4)
 
+- [Arne Nordheim - Spur, for solo accordion and orchestra](https://www.youtube.com/watch?v=NSg8QsG-kLQ)
 
-
+  **[score](https://issuu.com/scoresondemand/docs/spur_22431.pdc)**
