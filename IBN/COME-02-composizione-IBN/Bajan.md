@@ -1,4 +1,4 @@
-## Bajan
+99## Bajan
 
 
 There are two common systems of right-hand keyboards for the accordion: 
@@ -20,7 +20,7 @@ The only meaningful difference is that the C-griff has the lowest notes of the l
 
 **Estensione registro:** E2 - G7
 
-<img src="https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/PDF/Strumenti/c-griff.png" width= "300"><img src="https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/PDF/Strumenti/accordion-piano.jpg" width= "500">
+<img src="https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/PDF/Strumenti/c-griff.png" width= "300">
 
 The right keyboard of the accordion has 105 buttons in five rows, with 3 effective rows. The 4th and 5th rows are repetitions of the 1st and 2nd. This
 gives us many possibilities with fingering and in tonality, when transposing. We have a chromatic scale with a considerable range, from the second lowest E to the highest G of a 88 key piano keyboard (64 notes). Also known as from E2 to G7.
