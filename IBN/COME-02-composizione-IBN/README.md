@@ -30,3 +30,10 @@ Corso di "Composizione musicale elettroacustica", I BN 2019/2020 - M. Nicola Ber
 - [Arne Nordheim - Spur, for solo accordion and orchestra](https://www.youtube.com/watch?v=NSg8QsG-kLQ)
 
   **[score](https://issuu.com/scoresondemand/docs/spur_22431.pdc)**
+  
+  
+  **Studio Strumenti**
+  
+   - [Bajan](https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Bajan.md)
+   
+   - [Clarinetto basso](https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Clarinetto%20basso.md)
