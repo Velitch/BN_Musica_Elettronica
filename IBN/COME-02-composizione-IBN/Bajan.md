@@ -8,6 +8,7 @@ There are two common systems of right-hand keyboards for the accordion:
 
 - button keyboard
 
+
 ## Right hand
 
 ### Button systems
@@ -43,3 +44,44 @@ These registers can be used in all possible combinations, so there are 15 differ
 When using registers that combine different octaves, it is always the lowest octave that defines the resulting sound.
 
 I would actually suggest not bothering with registers symbols in the initial stages of composition, but to guide the player color indications such as dolce, tutti, metallic, nasal, flute, bassoon etc. The accordionist will choose a suitable registration to fit the description.
+
+
+## Left hand
+
+The left hand of the accordionist is always tied to a strap pulling and pushing the bellows in order to obtain sounds and to control the dynamics. It simultaneously controls the left keyboard, which has 120 buttons distributed within 6 rows.
+
+There are three common systems for the left hand:
+
+
+1) C-griff: is the equivalent of the right hand system, mirror made;
+
+2) B-griff: the “Russian” version, with lowest notes on the bottom;
+
+3) Finnish: mirror made to the right hand Finnish system.
+
+
+Again, the difference between models should not impact composers, with the exception of the position of the air button which is on the top of the body. That means the air button is close to the lowest tones on the C-griff and Finnish models, but close to highest tones on the B-griff. Another important thing to remember is that if you want us to use the left thumb (for a large interval) this will operate C-Eb-F#-A on the C-griff and B-DF- Ab on the D-griff. The extension of this keyboard goes **from E1 to C#6**.
+
+
+The 4 row chromatic keyboard is very similar to the right hand keyboard in that it is mirror-built, but is much less flexible because the left hand is strapped under the bass-strap for pushing and pulling the bellows, so we can not use the thumb for depressing buttons. Moving the left hand under the strap takes time, and sliding it slowly while notes are sounding on the right hand often causes pulsations or vibrations in the sound.
+
+### Limits in the left hand
+
+-No thumb. As mentioned above the only exception is the first row, which is different from system to system. We feel comfortable playing within one octave interval. 3-notes chords are possible, but not all 4-notes chords are possible. Arpeggios that cross several octaves are very difficult.
+
+-No quick jumps over 1 octave, we need a pause to move the hand and keep in mind that we can not see the keyboard!
+
+-No prestissimo passages: we can play comfortably fast in one position but problems arise when we need to change the hand position. It is better to avoid fast virtuosic runs. Or include pauses or a fermata to slide the hand under the strap.
+
+-No glissandos: the shape of the buttons is not flat like the right hand, so the hand does not slide comfortably. You can simulate a glissando on the lefthand with a  fingers.
+
+
+## Registers
+
+The left keyboard has fewer register possibilities than the right keyboard and there are often large differences between individual instruments.
+
+The left keyboard has fewer register possibilities than the right keyboard and there are often large differences between individual instruments. The most common combination is the one above on the left: two low reeds (similar to the 16foot for the right hand) from E1 to C#6 plus one very high (from E3 to C#8). The lowest octave (E1-E2) has a low voice and one voice one octave higher. 
+
+This is for practical reasons, they cannot fit more reeds inside the left body of the accordion. This first registers combination has some great qualities, with a powerful bass notes and wide range (the same as the right hand). And of course you can choose different combinations of registers.
+
+The second possibility is the picture above on the right: one low reed (E1- C#6), one central (E2-C#7), and one high (E3-C#8). This model in my opinion is a bit worse: less powerful and effective.
