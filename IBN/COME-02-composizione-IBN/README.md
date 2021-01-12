@@ -15,12 +15,16 @@ Corso di "Composizione musicale elettroacustica", I BN 2019/2020 - M. Nicola Ber
 
 **Ascolti:**
 
-- [Sofia Gubaidulina - Sieben Worte (1982) for cello, bayan and strings](https://www.youtube.com/watch?v=uAMboPrZ4jM)
+- [Sofia Gubaidulina - Sieben Worte (1982) for cello, bayan and strings (w/score)](https://www.youtube.com/watch?v=uAMboPrZ4jM)
 
-- [Sofia Gubaidulina - Offertorium](https://www.youtube.com/watch?v=xvHeTWOfL1c)
+- [Sofia Gubaidulina - Offertorium (w/score)](https://www.youtube.com/watch?v=xvHeTWOfL1c)
 
-- [Sofia Gubaidulina - Concerto For Two Orchestras (for orchestra and jazz band) (1970)](https://www.youtube.com/watch?v=8VqSvBtp77Q)
+- [Sofia Gubaidulina - Concerto For Two Orchestras (for orchestra and jazz band) (1970) (w/score)](https://www.youtube.com/watch?v=8VqSvBtp77Q)
 
-- [Bulgarian Suite for Bayan](https://www.youtube.com/watch?v=XgWNkaadKA4)
+- [Bulgarian Suite for Bayan (w/score)](https://www.youtube.com/watch?v=XgWNkaadKA4)
+
+- [Luciano Berio - Sequenza XIII, per fisarmonica (1996) (w/score)](https://www.youtube.com/watch?v=3ofQJeuz_Js)
+
+
 
 
