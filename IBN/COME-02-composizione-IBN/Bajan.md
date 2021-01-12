@@ -16,4 +16,6 @@ The button accordion has at least three types of different models, but **they ar
 
 The only meaningful difference is that the C-griff has the lowest notes of the left hand on the top (near to the air button) while the B-griff has the lowest notes of the left hand on the bottom (very far from the air button!)
 
+### C-Griff
+
 <img src="https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/PDF/Strumenti/c-griff.png" width= "300">
