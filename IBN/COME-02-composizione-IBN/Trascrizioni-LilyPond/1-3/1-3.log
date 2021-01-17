@@ -1,0 +1,33 @@
+# -*-compilation-*-
+Elaborazione di «C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly»
+Analisi...
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly:41:1: errore: stringa di escape sconosciuta: «\s»
+
+\s1 \fermata \bar"|"
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly:41:1: errore: testo fuori da una scritta testuale o da \lyricmode
+
+\s1 \fermata \bar"|"
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly:35:26: attenzione: Sconnesso SlurEvent
+\discant "121" \time 5/4 
+                         (d\p\< d' d' d' 
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly:50:17: errore: i segni di ottava devono precedere la durata
+\time 5/4 d2 d2.
+                ,~ 
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly:54:1: errore: stringa di escape sconosciuta: «\s»
+
+\s1 \fermata
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly:52:6: errore: i segni di ottava devono precedere la durata
+d1 d4
+     '
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.ly:54:1: errore: testo fuori da una scritta testuale o da \lyricmode
+
+\s1 \fermata
+Interpretazione della musica...
+Pre-elaborazione degli oggetti grafici...
+Interpretazione della musica...
+L'output MIDI è inviato a «/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.mid»...
+Determinazione del numero ottimale di pagine...
+Compressione della musica in una pagina...
+Disegno dei sistemi...
+Conversione a «/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/1-3.pdf»...
+errore fatale: errore nei file: "C:\\Users\\gabri\\OneDrive\\Documenti\\GitHub\\BN_Musica_Elettronica\\IBN\\COME-02-composizione-IBN\\Trascrizioni-LilyPond\\1-3.ly"
