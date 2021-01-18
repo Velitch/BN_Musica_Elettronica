@@ -1,0 +1,76 @@
+# -*-compilation-*-
+Elaborazione di «C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly»
+Analisi...
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:40:27: attenzione: Sconnesso SlurEvent
+		\time 5/4 
+                          (d\p\< d' d' d' 
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:66:19: errore: i segni di ottava devono precedere la durata
+	{r8. fis16
+                  ' r8}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:78:19: attenzione: Sconnesso SlurEvent
+	\time 5/4 
+                  (d4 \p \< d' d' d' 
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:105:30: errore: i segni di ottava devono precedere la durata
+		\time 5/4 (d4
+                             , \p \< d' d' d' 
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:105:27: attenzione: Sconnesso SlurEvent
+		\time 5/4 
+                          (d4, \p \< d' d' d' 
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:120:49: attenzione: Sconnesso SlurEvent
+	{d16([ees16]) ees16([d16]) \tuplet 3/2 {
+                                                (d16[ees) ees]}}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:122:34: attenzione: Sconnesso SlurEvent
+	{g16([f16]) \tuplet 3/2 {
+                                 (f16[fis) fis]} fis16([g16])}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:126:23: attenzione: Sconnesso SlurEvent
+	{\tuplet 3/2 {
+                      (aes16[a) a]} a16([bes16]) bes16([a16])}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:130:34: attenzione: Sconnesso SlurEvent
+	{b16([c16]) \tuplet 3/2 {
+                                 (c16[cis) c]} c16([d16])}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:132:37: attenzione: Sconnesso SlurEvent
+	{\clef treble  \tuplet 3/2 {
+                                    (d16[dis) dis]}}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:142:25: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2 d2.
+                        ,~ }
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:144:15: errore: i segni di ottava devono precedere la durata
+	{d1 d4
+              '}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:184:25: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2 d2.
+                        ,~ }
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:186:15: errore: i segni di ottava devono precedere la durata
+	{d1 d4
+              '}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:209:21: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2
+                    ' d2.,~ }
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:209:26: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2' d2.
+                         ,~ }
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:211:15: errore: i segni di ottava devono precedere la durata
+	{d1 d4
+              '}
+Interpretazione della musica...[8]
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:176:21: attenzione: conflitto con evento: «absolute-dynamic-event»
+	{r16 d8.:64 
+                    \sfz \p  r8}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:176:26: attenzione: si scarta l'evento: «absolute-dynamic-event»
+	{r16 d8.:64 \sfz 
+                         \p  r8}
+[16][24]
+Pre-elaborazione degli oggetti grafici...
+Interpretazione della musica...
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:176:21: attenzione: conflitto con evento: «absolute-dynamic-event»
+	{r16 d8.:64 
+                    \sfz \p  r8}
+C:/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.ly:176:26: attenzione: si scarta l'evento: «absolute-dynamic-event»
+	{r16 d8.:64 \sfz 
+                         \p  r8}
+L'output MIDI è inviato a «/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.mid»...
+Determinazione del numero ottimale di pagine...
+Compressione della musica in 1 o 2 pagine...
+Disegno dei sistemi...
+Conversione a «/Users/gabri/OneDrive/Documenti/GitHub/BN_Musica_Elettronica/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Tutta/1-37.pdf»...
+errore fatale: errore nei file: "C:\\Users\\gabri\\OneDrive\\Documenti\\GitHub\\BN_Musica_Elettronica\\IBN\\COME-02-composizione-IBN\\Trascrizioni-LilyPond\\Tutta\\1-37.ly"

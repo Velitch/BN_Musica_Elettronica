@@ -28,30 +28,15 @@ composer = "Sofia Gubaidulina"
 
 #(use-modules (scm accreg))
 
-sinistra= 
-\relative d {
-
-%===1
-\discant "121" \time 5/4 (d\p\< d' d' d' 
+sxuno= 
+\relative d { \discant "121" \time 5/4 (d\p\< d' d' d' 
 \ottava #0
-  \set Staff.ottavation = #"8"
-%===2
-d~ d \ff\> \ottava #0 d d, d, d, \p)
-%===3
-\s1 \fermata \bar"|"
-%===4
+  \set Staff.ottavation = #"8" d~ d \ff\> \ottava #0 d d, d, d, \p) s1 \fermata s4
 }
 
 
-destra=
-\relative d {
-
-%===1
-\time 5/4 d2 d2.,~ 
-%===2
-d1 d4'
-%===3
-\s1 \fermata
+dxuno=
+\relative d { \time 5/4 d2 d2.,~ d1 d4's1 \fermata s4
 }
 
 
@@ -59,12 +44,12 @@ d1 d4'
 
 primorigo= \new Staff \with { \clef treble
 	\time 5/4
-	instrumentName = "Bajan sx"}{ \sinistra}
+	instrumentName = "Bajan sx"}{ \sxuno}
 
 secondorigo= \new Staff \with { 
 	\clef bass
 	\time 5/4
-	instrumentName = "Bajan dx"}{ \destra}
+	instrumentName = "Bajan dx"}{ \dxuno}
 
 
 %=====BLOCCO SCORE

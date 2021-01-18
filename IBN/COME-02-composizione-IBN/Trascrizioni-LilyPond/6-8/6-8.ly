@@ -27,27 +27,22 @@ composer = "Sofia Gubaidulina"
 %=====BLOCCO NOTAZIONE
 
 
-sinistra= 
-\relative c {\time 3/8 s1 s8 \bar"|"
+sxs= 
+\relative c { \time 3/8 r4. r4. r4.}
 
-}
-
-destra=
-\relative c {\time 3/8 r8. <bes a'>16 \pp r8 r16 <g fis''>16 \mf r8. <ges ees'>16 \p r8. <d' cis'>16 \pp r8
-
-}
+dxs=
+\relative c { \time 3/8 r8. <bes a'>16 \pp r8 r16 <g fis''>16 \mf r8. <ges ees'>16 \p r8. <d' cis'>16 \pp r8}
 
 
 %=====BLOCCO IMPOSTAZIONE RIGHI (FATTO)
 
-primorigo= \new Staff \with { \clef treble
-	\time 3/8
-	instrumentName = "Bajan sx"}{ \sinistra}
+primorigo= \new Staff \with { 
+	\clef treble
+	instrumentName = "Bajan sx"}{ \sxs}
 
 secondorigo= \new Staff \with { 
 	\clef bass
-	\time 3/8
-	instrumentName = "Bajan dx"}{ \destra}
+	instrumentName = "Bajan dx"} { \dxs}
 
 
 %=====BLOCCO SCORE
