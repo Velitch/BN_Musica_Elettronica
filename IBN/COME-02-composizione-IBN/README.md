@@ -10,7 +10,7 @@ Corso di "Composizione musicale elettroacustica", I BN 2019/2020 - M. Nicola Ber
 
 **Articoli:**
 
-- [Registri Fisarmonica](https://de.wikipedia.org/wiki/Register_%28Akkordeon%29)
+- [Notazione Registri Fisarmonica](https://de.wikipedia.org/wiki/Register_%28Akkordeon%29)
 
 - [Cantare invece di parlare](http://updop.org/2013/01/13/cantare-invece-di-parlare-introduzione-alla-drammaturgia-musicale-_-riccardo-pecci/)
 
