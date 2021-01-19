@@ -15,12 +15,20 @@
 
 - Come scrivere nota appartenente alla voce del rigoprimo nel rigosecondo?
 
+\\
 
-c'8 g d  
+dx  = \relative c'' {
 
-    \change Staff = "sx" f, c g
+}
+
+sx  = \relative c' {
+c d e 
+
+ \change Staff = "dx" f g a b
+
+}
     
-    
+ \\
 
 - Come scrivere tremolo tra piú accordi?
 
