@@ -11,8 +11,12 @@
 
 ### Domande LilyPond:
 
+- Gestione generale score
+
 - Come scrivere nota appartenente alla voce del rigoprimo nel rigosecondo?
 
 - Come scrivere tremolo tra piú accordi?
 
 - Gestione paginazione, "a capo"
+
+
