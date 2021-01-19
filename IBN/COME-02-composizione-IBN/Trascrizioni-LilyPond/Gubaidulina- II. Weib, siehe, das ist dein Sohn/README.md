@@ -6,5 +6,11 @@
 
 - [Youtube score](https://www.youtube.com/watch?v=uAMboPrZ4jM)
 
-- [Lilypond transcription](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Gubaidulina-%20II.%20Weib%2C%20siehe%2C%20das%20ist%20dein%20Sohn)
+- [LilyPond transcription](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-02-composizione-IBN/Trascrizioni-LilyPond/Gubaidulina-%20II.%20Weib%2C%20siehe%2C%20das%20ist%20dein%20Sohn)
 
+
+### Domande LilyPond:
+
+- Come scrivere nota appartenente alla voce del rigoprimo nel rigosecondo?
+
+- Come scrivere tremolo tra piú accordi?
