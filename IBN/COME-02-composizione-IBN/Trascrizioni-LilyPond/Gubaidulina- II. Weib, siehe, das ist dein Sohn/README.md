@@ -15,6 +15,13 @@
 
 - Come scrivere nota appartenente alla voce del rigoprimo nel rigosecondo?
 
+
+c'8 g d  
+
+    \change Staff = "sx" f, c g
+    
+    
+
 - Come scrivere tremolo tra piú accordi?
 
 - Gestione paginazione, "a capo"
