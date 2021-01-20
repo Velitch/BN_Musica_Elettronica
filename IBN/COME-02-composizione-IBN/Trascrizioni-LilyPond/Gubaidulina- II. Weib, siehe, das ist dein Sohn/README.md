@@ -15,6 +15,21 @@
 
 - Come scrivere nota appartenente alla voce del rigoprimo nel rigosecondo?
 
+\\
+
+dx  = \relative c'' {
+
+}
+
+sx  = \relative c' {
+c d e 
+
+ \change Staff = "dx" f g a b
+
+}
+    
+ \\
+
 - Come scrivere tremolo tra piú accordi?
 
 - Gestione paginazione, "a capo"
