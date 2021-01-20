@@ -1,0 +1,136 @@
+# -*-compilation-*-
+Elaborazione di «C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/MASTER.ly»
+Analisi...
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:13:9: attenzione: Sconnesso SlurEvent
+	
+        (\change Staff = "BSX" 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:14:9: attenzione: Sconnesso SlurEvent
+	
+        (d4 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:16:9: attenzione: Sconnesso AbsoluteDynamicEvent
+	
+        \p \< d' d' d' 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:45:19: errore: i segni di ottava devono precedere la durata
+	{r8. fis16
+                  ' r8}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:58:9: attenzione: Sconnesso SlurEvent
+	
+        (\change Staff = "BSX" 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:59:9: attenzione: Sconnesso SlurEvent
+	
+        (d4 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:61:9: attenzione: Sconnesso AbsoluteDynamicEvent
+	
+        \p \< d' d' d' 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:92:9: attenzione: Sconnesso SlurEvent
+	
+        (\change Staff = "BSX" 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:93:9: attenzione: Sconnesso SlurEvent
+	
+        (d4 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:95:9: attenzione: Sconnesso AbsoluteDynamicEvent
+	
+        \p \< d' d' d' 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:113:49: attenzione: Sconnesso SlurEvent
+	{d16([ees16]) ees16([d16]) \tuplet 3/2 {
+                                                (d16[ees) ees]}}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:115:34: attenzione: Sconnesso SlurEvent
+	{g16([f16]) \tuplet 3/2 {
+                                 (f16[fis) fis]} fis16([g16])}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:119:23: attenzione: Sconnesso SlurEvent
+	{\tuplet 3/2 {
+                      (aes16[a) a]} a16([bes16]) bes16([a16])}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:123:34: attenzione: Sconnesso SlurEvent
+	{b16([c16]) \tuplet 3/2 {
+                                 (c16[cis) c]} c16([d16])}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:125:37: attenzione: Sconnesso SlurEvent
+	{\clef treble  \tuplet 3/2 {
+                                    (d16[dis) dis]}}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:137:25: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2 d2.
+                        ,~}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:139:15: errore: i segni di ottava devono precedere la durata
+	{d1 d4
+              '}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:179:25: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2 d2.
+                        ,~ }
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:181:15: errore: i segni di ottava devono precedere la durata
+	{d1 d4
+              '}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:204:21: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2
+                    ' d2.,~ }
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:204:26: errore: i segni di ottava devono precedere la durata
+	\time 5/4 d2' d2.
+                         ,~ }
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:206:15: errore: i segni di ottava devono precedere la durata
+	{d1 d4
+              '}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/MASTER.ly:1: attenzione: dichiarazione di \version assente; si aggiunga 
+
+\version "2.22.0"
+
+ per compatibilità futura
+Interpretazione della musica...
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:39:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4 s1 s4} 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:157:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:41:10: attenzione: mid-measure time signature without \partial
+	{
+         \time 3/8 r4.}
+[8]
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:171:21: attenzione: conflitto con evento: «absolute-dynamic-event»
+	{r16 d8.:64 
+                    \sfz \p  r8}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:171:26: attenzione: si scarta l'evento: «absolute-dynamic-event»
+	{r16 d8.:64 \sfz 
+                         \p  r8}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:52:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4 s1 s4} 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:174:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:57:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:179:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4 d2 d2.,~ }
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:73:9: attenzione: mid-measure time signature without \partial
+	
+        \time 3/8 r4.}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:91:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4 
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:204:9: attenzione: mid-measure time signature without \partial
+	
+        \time 5/4 d2' d2.,~ }
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:106:9: attenzione: mid-measure time signature without \partial
+	
+        \time 3/8 
+Pre-elaborazione degli oggetti grafici...
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:137:19: attenzione: questa voce ha bisogno di un'impostazione \voiceXx o \shiftXx
+	\time 5/4 
+                  d2 d2.,~}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:22:9: attenzione: questa voce ha bisogno di un'impostazione \voiceXx o \shiftXx
+	
+        d,)
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:123:10: attenzione: questa voce ha bisogno di un'impostazione \voiceXx o \shiftXx
+	{
+         b16([c16]) \tuplet 3/2 {(c16[cis) c]} c16([d16])}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:117:23: attenzione: questa voce ha bisogno di un'impostazione \voiceXx o \shiftXx
+	{g16([aes16]) 
+                      aes16([a16]) a16([aes16])}
+C:/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/bajan.ly:110:51: attenzione: questa voce ha bisogno di un'impostazione \voiceXx o \shiftXx
+	{\tuplet 3/2 {ees16[d d]} \> d16([cis16]) 
+                                                  cis16([d16]) \p }
+Determinazione del numero ottimale di pagine...
+Compressione della musica in 1 o 2 pagine...
+Disegno dei sistemi...
+Conversione a «/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/MASTER.pdf»...
+errore fatale: cannot rename `/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/MASTER-tmp-1227084.151045.pdf' to `/Users/gabri/OneDrive/Desktop/Gubaidulina- II. Weib, siehe, das ist dein Sohn/MASTER.pdf'
