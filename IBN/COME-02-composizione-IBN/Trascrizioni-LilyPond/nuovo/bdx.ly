@@ -10,6 +10,7 @@ BajanDX =  \relative d {
 	\discant #"121" 
 	\time 5/4 
 	\change Staff = "BSX" 
+	\override NoteHead.color = #darkgreen
 	(d4 \p 
 	\change Staff = "BDX" 
 	 d' \p \<  d' d' 
@@ -26,7 +27,9 @@ BajanDX =  \relative d {
 	s1 \fermata s4
 %6
 	\tempo 4.=48
-	\time 3/8 r4.
+	\time 3/8 
+	\override NoteHead.color = #red
+	r4.
 %7	
 	r16 <fis'>16 r4
 %8
@@ -52,7 +55,8 @@ BajanDX =  \relative d {
 	\discant #"121" 
 	\time 5/4 
 	\change Staff = "BSX" 
-	d4\( \p 
+	\override NoteHead.color = #darkgreen
+	d,4\( \p 
 	\change Staff = "BDX" 
 	 d' \p \<  d' d' 
 		\ottava #0
@@ -64,11 +68,13 @@ BajanDX =  \relative d {
 	\change Staff = "BDX" s1 \fermata s4
 %19
 	\tempo 4.=48
-	\time 3/8 r4.
+	\time 3/8 
+	\override NoteHead.color = #red
+	r4.
 %20
 	r4.
 %21
-	r8. <g, fis'>16 \mf r8
+	r8. <g fis'>16 \mf r8
 %22
 	r4.
 %23
@@ -85,6 +91,7 @@ BajanDX =  \relative d {
 	\time 5/4 
 	\discant #"121" 
 	\change Staff = "BSX" 
+	\override NoteHead.color = #darkgreen
 	d,4\( \p 
 	\change Staff = "BDX" 
 	 d' \p \<  d' d' 
@@ -98,7 +105,9 @@ BajanDX =  \relative d {
        { \tempo 4.=48
 	\time 3/8 
 	\discant #"20"
-	\clef bass r8. d16\p\< d16 ([ees])}
+	\clef bass 
+	\override NoteHead.color = #darkcyan
+	r8. d16\p\< d16 ([ees])}
 	
 %30
        {\tuplet 3/2 {ees16[d d]} \> d16([cis16]) cis16([d16]) \p} 
@@ -122,14 +131,45 @@ BajanDX =  \relative d {
 %39       
        {e16([f]) f16([e]) e16([fis])}
 %40       
-       {\discant #"120"
-       \tuplet 3/2 {fis16[(f) f]} f16([fis]) fis16([g])}
+        {\discant #"120"
+         \tuplet 3/2 {fis16[(f) f]} f16([fis]) fis16([g])}
 %41       
-       {g16[aes] aes16([g]) \tuplet 3/2 {g16[(aes) aes]}}
+        {g16[aes] aes16([g]) \tuplet 3/2 {g16[(aes) aes]}}
 %42      
-       {aes16([a]) a16([bes]) bes16([a])}
+        {aes16([a]) a16([bes]) bes16([a])}
 %43       
-       {\tuplet 3/2 {a16[(gis) gis]} gis16[a] \tuplet 3/2 {a16[(bes) bes]}}
+        {\tuplet 3/2 {a16[(gis) gis]} gis16[a] \tuplet 3/2 {a16[(bes) bes]}}
 %44
-       {bes16([b]) b16([c]) c16([des])}
+        {bes16([b]) b16([c]) c16([des])}
+       
+        {\tuplet 3/2 {des16[(d) d]} d16([ees]) ees16([d])}
+        
+        {\tuplet 3/2 {d16[(cis) cis]} cis16([d]) \tuplet 3/2 {d16[(ees) ees]}}
+       
+        {s4. \fermata}
+       
+        {\clef bass
+         \tempo 4=72
+	 \time 5/4
+	  \discant #"1"
+	  \override NoteHead.color = #darkmagenta
+         s4 <dis,~ ais~>1\p}
+     
+        {<dis ais>2.}
+        
+        
+        {<g,~ d'~>2.}
+        
+        {\time 4/4
+         <g d'>2 s2}
+        
+        {\time 3/4
+        r2.}
+        
+        {\time 5/4
+        r1.. }
+        
+        {\fermata s2.} ||
+         
+        
 }
