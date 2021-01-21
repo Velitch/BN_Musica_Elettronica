@@ -4,10 +4,6 @@
 
 # Esami da svolgere:
 
-## [Analisi compositiva (CODC-01)](https://github.com/SMERM/BN-Velitchkova/tree/master/CODC-01-analisi-compositiva)
-
-- [Drive](https://drive.google.com/drive/folders/1UeiQTLP3fVcYGurGy7sc-_PFf4tllBSp)
-
 
 ## [Storia (CODM-05)](https://github.com/SMERM/BN-Velitchkova/tree/master/CODM-05-storia)
 
