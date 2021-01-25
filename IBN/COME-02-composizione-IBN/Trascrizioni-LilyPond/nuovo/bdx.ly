@@ -10,7 +10,6 @@ BajanDX =  \relative d {
 	\discant #"121" 
 	\time 5/4 
 	\change Staff = "BSX" 
-	\override NoteHead.color = #darkgreen
 	(d4 \p 
 	\change Staff = "BDX" 
 	 d' \p \<  d' d' 
@@ -23,12 +22,12 @@ BajanDX =  \relative d {
 	\change Staff = "BDX" s1 \fermata s4
 %4
 	s1 s4
+	\break
 %5
 	s1 \fermata s4
 %6
 	\tempo 4.=48
 	\time 3/8 
-	\override NoteHead.color = #red
 	r4.
 %7	
 	r16 <fis'>16 r4
@@ -37,6 +36,7 @@ BajanDX =  \relative d {
 %9
 	\tempo 4=120
 	\time 5/4 s1 s4
+	s1 \fermata s4 |
 %10
 	\time 3/8 r4.
 %11
@@ -55,8 +55,7 @@ BajanDX =  \relative d {
 	\discant #"121" 
 	\time 5/4 
 	\change Staff = "BSX" 
-	\override NoteHead.color = #darkgreen
-	d,4\( \p 
+	\(d,4 \p 
 	\change Staff = "BDX" 
 	 d' \p \<  d' d' 
 		\ottava #0
@@ -69,7 +68,6 @@ BajanDX =  \relative d {
 %19
 	\tempo 4.=48
 	\time 3/8 
-	\override NoteHead.color = #red
 	r4.
 %20
 	r4.
@@ -91,7 +89,6 @@ BajanDX =  \relative d {
 	\time 5/4 
 	\discant #"121" 
 	\change Staff = "BSX" 
-	\override NoteHead.color = #darkgreen
 	d,4\( \p 
 	\change Staff = "BDX" 
 	 d' \p \<  d' d' 
@@ -106,7 +103,6 @@ BajanDX =  \relative d {
 	\time 3/8 
 	\discant #"20"
 	\clef bass 
-	\override NoteHead.color = #darkcyan
 	r8. d16\p\< d16 ([ees])}
 	
 %30
@@ -152,7 +148,6 @@ BajanDX =  \relative d {
          \tempo 4=72
 	 \time 5/4
 	  \discant #"1"
-	  \override NoteHead.color = #darkmagenta
          s4 <dis,~ ais~>1\p}
      
         {<dis ais>2.}
