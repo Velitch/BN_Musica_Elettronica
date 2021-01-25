@@ -1,12 +1,8 @@
 # Repository del ciclo di Biennio di Gabriela Krassimirova Velitchkova - IBN
 
-<img src="https://github.com/SMERM/BN-Velitchkova/blob/master/Programma%20di%20studio/programma_IBN.jpg" width="1000">
+<img src="https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/Programma%20di%20studio/programma_IBN.jpg" width="1000">
 
 # Esami da svolgere:
-
-## [Analisi compositiva (CODC-01)](https://github.com/SMERM/BN-Velitchkova/tree/master/CODC-01-analisi-compositiva)
-
-- [Drive](https://drive.google.com/drive/folders/1UeiQTLP3fVcYGurGy7sc-_PFf4tllBSp)
 
 
 ## [Storia (CODM-05)](https://github.com/SMERM/BN-Velitchkova/tree/master/CODM-05-storia)
