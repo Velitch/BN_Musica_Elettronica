@@ -133,7 +133,7 @@ Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a defin
 
 In questa scena vengono presentati: suoni forma, eventi sonori (breve durata). Il carattere é neutro, stabile, privo di narrazione. Non si nota una tensione risolutiva o di evoluzione.
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/partitura%20analitica%20titolo%201/frammento_4.jpg.jpg" >
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/partitura%20analitica%20titolo%201/frammento_4.jpg.jpg">
 
 
 ### - Scena 2: semi-breve (1'20" < durata < 2'); (clarinetto, percussioni, (bajan ed elettronica per passaggio a **scena 3**))
