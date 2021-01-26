@@ -19,7 +19,7 @@
 
 ### - Percussioni: 
 
-**organico strumentale**: tam tam, timpano, glockenspiel, vibrafono
+**organico strumentale**: tam tam, vibrafono
 
 **significato/identitá**: antagonista del respiro
 
