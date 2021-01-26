@@ -1,9 +1,3 @@
-## Link
-
-[machajdik.com](https://www.machajdik.com/BAYAN.html)
-
-[chat estensione bajan](https://it-alt.arti.musica.strumenti.fisarmonica.narkive.com/vCEyerfh/bayan)
-
 ## Gerarchie
 
 <img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/img/schema_strumentale.jpg" >
