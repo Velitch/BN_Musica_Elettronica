@@ -6,7 +6,7 @@
 
 ## Gerarchie
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/img/schema_strumentale.jpg" >
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/img/schema_strumentale.jpg" >
 
 
 ### - Bajan:
@@ -85,25 +85,25 @@ ______________
 
 **tag:** micro; frequenziale; texture;
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/1.jpg" width=320>
 
 ### Breve contrappunto di tensioni con unisono 
 
 **tag:** macro; tensione; suono-forma
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/2.jpg" width=320>
 
 ### Contrappunto risonante con linee fugaci
 
 **tag:** macro; frase; ritmico; frequenziale;  
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/3.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/3.jpg" width=320>
 
 ### Contrappunto - cesura - continuo
 
 **tag:** macro; suono-forma; ritmico; frequenziale;
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/4.jpg" width=320>
 
 ## 4 flussi:
 
@@ -111,7 +111,7 @@ ______________
 
 **tag:** micro; texture; frequenziale; ritmico;
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4_1.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/4_1.jpg" width=320>
 
 ______________
 
