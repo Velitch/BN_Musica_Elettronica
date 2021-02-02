@@ -1,12 +1,6 @@
-## Link
-
-[machajdik.com](https://www.machajdik.com/BAYAN.html)
-
-[chat estensione bajan](https://it-alt.arti.musica.strumenti.fisarmonica.narkive.com/vCEyerfh/bayan)
-
 ## Gerarchie
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/img/schema_strumentale.jpg" >
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/img/schema_strumentale.jpg" >
 
 
 ### - Bajan:
@@ -25,7 +19,7 @@
 
 ### - Percussioni: 
 
-**organico strumentale**: tam tam, timpano, glockenspiel, vibrafono
+**organico strumentale**: tam tam, vibrafono
 
 **significato/identitá**: antagonista del respiro
 
@@ -85,25 +79,25 @@ ______________
 
 **tag:** micro; frequenziale; texture;
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/1.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/1.jpg" width=320>
 
 ### Breve contrappunto di tensioni con unisono 
 
 **tag:** macro; tensione; suono-forma
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/2.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/2.jpg" width=320>
 
 ### Contrappunto risonante con linee fugaci
 
 **tag:** macro; frase; ritmico; frequenziale;  
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/3.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/3.jpg" width=320>
 
 ### Contrappunto - cesura - continuo
 
 **tag:** macro; suono-forma; ritmico; frequenziale;
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/4.jpg" width=320>
 
 ## 4 flussi:
 
@@ -111,7 +105,7 @@ ______________
 
 **tag:** micro; texture; frequenziale; ritmico;
 
-<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/G.K.Velitchkova_Composizione_BN/Grafizzazioni/4_1.jpg" width=320>
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Grafizzazioni/4_1.jpg" width=320>
 
 ______________
 
@@ -126,12 +120,14 @@ ______________
 
 ## Preludio
 
-### Scena 1: breve (1 < durata < 2'); (bajan, clarinetto)
+### Scena 1: breve (2 < durata < 4'); (bajan, clarinetto)
 
 
 Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a definire il carattere del respiro affinché si noti il contrasto con la **scena 3**. Spesso **clarinetto** e **bajan** attaccano all'unisono. La coda del **bajan** é piú lenta: contiene residui del **clarinetto**. Tra i due c'é impasto timbrico. 
 
 In questa scena vengono presentati: suoni forma, eventi sonori (breve durata). Il carattere é neutro, stabile, privo di narrazione. Non si nota una tensione risolutiva o di evoluzione.
+
+<img src= "https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/partitura%20analitica%20titolo%201/frammento_4.jpg">
 
 
 ### - Scena 2: semi-breve (1'20" < durata < 2'); (clarinetto, percussioni, (bajan ed elettronica per passaggio a **scena 3**))
