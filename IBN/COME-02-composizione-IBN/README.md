@@ -39,3 +39,8 @@ Corso di "Composizione musicale elettroacustica", I BN 2019/2020 - M. Nicola Ber
   - [Bajan](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-02-composizione-IBN/Strumenti/Bajan)
    
   - [Clarinetto basso](https://github.com/Velitch/BN_Musica_Elettronica/tree/main/IBN/COME-02-composizione-IBN/Strumenti/Bass%20Clarinet)
+ 
+ 
+[**Indice**](https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Indice.md)
+
+[**Bibliografia e citazioni**](https://github.com/Velitch/BN_Musica_Elettronica/blob/main/IBN/COME-02-composizione-IBN/Composizione-titolo-1/Bibliografia_e_citazioni.md)
