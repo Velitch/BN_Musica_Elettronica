@@ -5,11 +5,6 @@
 # Esami da svolgere:
 
 
-## [Storia (CODM-05)](https://github.com/SMERM/BN-Velitchkova/tree/master/CODM-05-storia)
-
-- [Edmodo](https://new.edmodo.com/groups/biennio-i-storia-e-analisi-della-musica-elettroacustica-35238319)
-
-
 ## [Esecuzione (COME-01)](https://github.com/SMERM/BN-Velitchkova/tree/master/COME-01-esecuzione)
 
 - [appunti Davide Tedesco](https://gitlab.com/SMERM/BN-Tedesco/-/tree/master/COME-01)
