@@ -53,40 +53,14 @@
 			}
 , 			{
 				"box" : 				{
-					"fontsize" : 4.0,
-					"id" : "obj-12",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 145.0, 19.0, 25.0, 13.0 ],
-					"text" : "loadbang"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontsize" : 4.0,
-					"id" : "obj-281",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 29.0, 19.0, 114.0, 13.0 ],
-					"text" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_biquad/"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-244",
 					"maxclass" : "jweb",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 29.0, 55.224783861671426, 426.399999999999977, 610.65706051873201 ],
+					"patching_rect" : [ 18.800000000000011, 27.832853240633995, 426.399999999999977, 660.65706051873201 ],
 					"rendermode" : 0,
-					"url" : "https://velitch.github.io/velitch/"
+					"url" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_biquad/"
 				}
 
 			}
@@ -336,6 +310,47 @@
 					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 690.249999999999886, 375.0, 529.0, 23.0 ],
 					"text" : "gen~ biquad"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"angle" : 270.0,
+					"grad1" : [ 0.2, 0.2, 0.2, 1.0 ],
+					"grad2" : [ 0.2, 0.2, 0.2, 1.0 ],
+					"id" : "obj-25",
+					"maxclass" : "panel",
+					"mode" : 1,
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 0.0, -2.5, 445.199999999999989, 718.822766999999999 ],
+					"proportion" : 0.5
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 4.0,
+					"id" : "obj-12",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "bang" ],
+					"patching_rect" : [ 133.0, 15.0, 25.0, 13.0 ],
+					"text" : "loadbang"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontsize" : 4.0,
+					"id" : "obj-281",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 17.0, 15.0, 120.0, 13.0 ],
+					"text" : "url https://velitch.github.io/velitch/2021-10-19-tool_gen_biquad/"
 				}
 
 			}
