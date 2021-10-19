@@ -1,0 +1,42 @@
+Combfilter (sig, ms, T60, lpcut, lpg, allcut)
+
+{
+
+Delay delay_1(samplerate);
+History history_2(0);
+Delay delay_3(samplerate);
+omega = ((lpcut * twopi)) / samplerate;
+cosw = cos(omega);
+cosq = cosw * cosw;
+alpha = (cosw - 1) + (sqrt((cosq - (4 * cosw)) + 3));
+expr_4 = alpha;
+mul_5 = history_2 * lpg;
+mul_6 = history_2 * -1;
+del1 = ms * (samplerate / 1000);
+Tses = T60;
+potenza = ((-3 * (del1 / 1000))) / Tses;
+g = pow(10, potenza);
+tap_7 = delay_1.read(del1);
+mul_8 = tap_7 * g;
+add_9 = sig + mul_8;
+expr_10 = add_9;
+add_11 = add_9 + mul_6;
+mul_12 = add_11 * expr_4;
+add_13 = mul_12 + mul_5;
+history_2_next_14 = fixdenorm(add_13);
+delay_1.write(add_13);
+history_2 = history_2_next_14;
+del2 = allcut * (samplerate / 1000);
+tap_15 = delay_3.read(del2);
+mul_6 = tap_15 * 0.9999;
+rsub_16 = 0 - mul_6;
+add_9 = sig + rsub_16;
+mul_5 = add_9 * 0.9999;
+add_17 = tap_15 + mul_5;
+add_18 = expr_10 + add_17;
+
+delay_3.write(add_9);
+
+    return add_18;
+
+}

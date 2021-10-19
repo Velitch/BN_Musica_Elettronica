@@ -269,3 +269,58 @@ delay_2.write(allpass + LP);
 delay_2.write(allpass2 + all1);
     return Yn;
 }
+
+//=====================================
+//  4.5
+//=====================================
+fbcomb_lp_T60_g (Xn, koeff, T60, freqcut, ms, rand, delg)
+
+{
+
+Delay delay_1(samplerate);
+Delay delay_2(samplerate);
+Delay delay_3(samplerate);
+History history_1(0);
+
+//COMB
+
+del_time = ((ms*koeff)+rand) * (samplerate/1000.);
+
+potenza = ((-3. * (del_time / 1000.))) / T60;
+g = pow(10., potenza);
+
+delay1 = delay_1.read(del_time) * delg;
+
+feedback = Xn + delay1;
+
+//LOWPASS
+
+omega = ((freqcut * twopi)) / samplerate;
+cosw = cos(omega);
+cosq = cosw * cosw;
+alpha = (cosw - 1.) + (sqrt((cosq - (4. * cosw)) + 3.));
+mul_1 = (1. - alpha) * history_1;
+
+  LP = mul_1 + (feedback * alpha);
+
+//ALLPASS1
+
+menog = (-1.) * g;
+allpass = (delay_2.read(del_time)) * menog;
+
+  all1 = (delay_2.read(del_time)) + ((allpass + LP) * g);
+
+//ALLPASS2
+
+allpass2 = (delay_3.read(del_time)) * menog;
+
+  Yn = (delay_3.read(del_time)) + ((allpass2 + all1) * g);
+
+
+history_1_2 = fixdenorm(Yn);
+history_1 = history_1_2;
+delay_1.write(feedback);
+delay_2.write(allpass + LP);
+delay_2.write(allpass2 + all1);
+    return Yn;
+}

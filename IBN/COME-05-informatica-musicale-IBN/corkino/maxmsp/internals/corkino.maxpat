@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 1,
-			"revision" : 11,
+			"minor" : 2,
+			"revision" : 0,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
+		"rect" : [ 41.0, 84.0, 1468.0, 713.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -564,7 +564,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 701.0, 266.0, 50.0, 22.0 ],
-					"text" : "22"
+					"text" : "3"
 				}
 
 			}
@@ -693,7 +693,7 @@
 					"color" : [ 0.384313725490196, 0.682352941176471, 0.698039215686274, 1.0 ],
 					"data" : 					{
 						"clips" : [ 							{
-								"absolutepath" : "C:\\Users\\Admin\\Desktop\\corkino\\maxmsp\\wav\\D_Roccato_test_1.wav",
+								"absolutepath" : "D_Roccato_test_1.wav",
 								"filename" : "D_Roccato_test_1.wav",
 								"filekind" : "audiofile",
 								"id" : "u522000815",
@@ -762,6 +762,26 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 1319.75, 373.64634108543396, 47.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
+						"tribordercolor" : 						{
+							"expression" : ""
+						}
+,
+						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
+						"tricolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
+							"expression" : ""
+						}
+,
+						"slidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[4]",
 							"parameter_mmax" : 6.0,
@@ -860,6 +880,26 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 173.75, 384.438006510337118, 47.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
+						"tribordercolor" : 						{
+							"expression" : ""
+						}
+,
+						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
+						"tricolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
+							"expression" : ""
+						}
+,
+						"slidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[3]",
 							"parameter_mmax" : 6.0,
@@ -1574,8 +1614,8 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1023.0, 570.875, 150.0, 22.0 ],
-					"text" : "scale 0. 1023. 10000. 100."
+					"patching_rect" : [ 1023.0, 570.875, 143.0, 22.0 ],
+					"text" : "scale 0. 1023. 10000. 10."
 				}
 
 			}
@@ -1702,6 +1742,26 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 85.75, 384.438006510337118, 47.0, 284.0 ],
 					"saved_attribute_attributes" : 					{
+						"tribordercolor" : 						{
+							"expression" : ""
+						}
+,
+						"trioncolor" : 						{
+							"expression" : ""
+						}
+,
+						"tricolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
+							"expression" : ""
+						}
+,
+						"slidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_longname" : "live.gain~[2]",
 							"parameter_mmax" : 6.0,
@@ -1906,6 +1966,30 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 148.75, 64.25, 75.5, 63.25 ],
 					"saved_attribute_attributes" : 					{
+						"lcdcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activebgcolor" : 						{
+							"expression" : ""
+						}
+,
+						"inactivetextoncolor" : 						{
+							"expression" : ""
+						}
+,
+						"textcolor" : 						{
+							"expression" : ""
+						}
+,
+						"textoncolor" : 						{
+							"expression" : ""
+						}
+,
+						"activebgoncolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_enum" : [ "sample", "mic" ],
 							"parameter_longname" : "live.tab[2]",
@@ -2803,7 +2887,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 1.0 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 0.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1007.25, 1010.0, 24.0, 24.0 ],
@@ -2894,7 +2978,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.39198437333107 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 0.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 869.5, 1010.0, 24.0, 24.0 ],
@@ -3104,7 +3188,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.105571847507331 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 0.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 589.5, 1010.0, 24.0, 24.0 ],
@@ -3195,7 +3279,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.0 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 1.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 451.75, 1010.0, 24.0, 24.0 ],
@@ -3286,7 +3370,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"offcolor" : [ 0.07843137254902, 0.094117647058824, 0.435294117647059, 1.0 ],
-					"oncolor" : [ 0.0, 0.38, 0.99, 0.498533724340176 ],
+					"oncolor" : [ 0.0, 0.38, 0.99, 1.0 ],
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 314.0, 1010.0, 24.0, 24.0 ],
@@ -4628,8 +4712,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 1,
-							"revision" : 11,
+							"minor" : 2,
+							"revision" : 0,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -4733,8 +4817,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 0,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -5555,8 +5639,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 0,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -5717,8 +5801,8 @@
 														"fileversion" : 1,
 														"appversion" : 														{
 															"major" : 8,
-															"minor" : 1,
-															"revision" : 11,
+															"minor" : 2,
+															"revision" : 0,
 															"architecture" : "x64",
 															"modernui" : 1
 														}
@@ -6297,8 +6381,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 0,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -6718,8 +6802,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 1,
-											"revision" : 11,
+											"minor" : 2,
+											"revision" : 0,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -7916,7 +8000,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1013.5, 17.848609924316406, 20.0, 98.0 ],
 					"size" : 6,
-					"value" : 3
+					"value" : 1
 				}
 
 			}
@@ -7928,7 +8012,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 978.0, 180.848609924316406, 50.0, 22.0 ],
-					"text" : "4."
+					"text" : "2."
 				}
 
 			}
@@ -7954,7 +8038,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1043.5, 180.848609924316406, 60.0, 23.0 ],
-					"text" : "store 4"
+					"text" : "store 2"
 				}
 
 			}
@@ -9759,71 +9843,71 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "cleopatra_negra-acqua.png",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cleopatra_negra-full.png",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "5f9077103a79d.png",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "smooth.gendsp",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "comb.gendsp",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "GKV_Filter_Library.genexpr",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "GenX",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "glider.maxpat",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "logo_Tavola disegno 1-05.png",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "hz2ms.gendsp",
-				"bootpath" : "~/Desktop/corkino/maxmsp/externals",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "D_Roccato_test_1.wav",
-				"bootpath" : "~/Desktop/corkino/maxmsp/wav",
-				"patcherrelativepath" : "../wav",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/corkino/maxmsp/internals",
+				"patcherrelativepath" : ".",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
@@ -9870,8 +9954,8 @@
 				"name" : "helpfile_label-1",
 				"default" : 				{
 					"fontsize" : [ 13.0 ],
-					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
-					"fontname" : [ "Arial" ]
+					"fontname" : [ "Arial" ],
+					"textcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -9890,13 +9974,13 @@
 						"autogradient" : 0
 					}
 ,
-					"color" : [ 0.031373, 0.541176, 0.498039, 1.0 ],
 					"selectioncolor" : [ 0.466667, 0.254902, 0.607843, 1.0 ],
-					"fontface" : [ 0 ],
 					"accentcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"elementcolor" : [ 0.37684, 0.398617, 0.461834, 1.0 ],
+					"fontname" : [ "Verdana" ],
 					"bgcolor" : [ 0.461105, 0.492646, 0.591878, 1.0 ],
-					"fontname" : [ "Verdana" ]
+					"elementcolor" : [ 0.37684, 0.398617, 0.461834, 1.0 ],
+					"color" : [ 0.031373, 0.541176, 0.498039, 1.0 ],
+					"fontface" : [ 0 ]
 				}
 ,
 				"parentstyle" : "asd",
@@ -9964,8 +10048,8 @@
 , 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-					"fontsize" : [ 12.059008 ]
+					"fontsize" : [ 12.059008 ],
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -9983,8 +10067,8 @@
 , 			{
 				"name" : "rsliderGold",
 				"default" : 				{
-					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ],
-					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ]
+					"bgcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ],
+					"color" : [ 0.646639, 0.821777, 0.854593, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -10002,10 +10086,10 @@
 , 			{
 				"name" : "tap-dark",
 				"default" : 				{
-					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
 					"locked_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
-					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ],
-					"fontname" : [ "Ableton Sans Light Regular" ]
+					"fontname" : [ "Ableton Sans Light Regular" ],
+					"editing_bgcolor" : [ 0.133333, 0.133333, 0.133333, 1.0 ],
+					"textcolor" : [ 0.847058823529412, 0.847058823529412, 0.847058823529412, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -10024,11 +10108,11 @@
 						"autogradient" : 0.0
 					}
 ,
-					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ],
 					"selectioncolor" : [ 0.929412, 0.929412, 0.352941, 1.0 ],
 					"accentcolor" : [ 0.501961, 0.501961, 0.501961, 1.0 ],
+					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"patchlinecolor" : [ 0.501960784313725, 0.0, 0.501960784313725, 1.0 ],
-					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+					"color" : [ 0.0, 0.749019607843137, 0.501960784313725, 1.0 ]
 				}
 ,
 				"parentstyle" : "",

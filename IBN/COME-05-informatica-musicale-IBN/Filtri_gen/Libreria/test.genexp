@@ -1,0 +1,31 @@
+fbcomb_lp_g (Xn, ms, gain, freqcut)
+
+{
+
+Delay delay_1(samplerate);
+History history_1(0);
+
+del_time = ms * (samplerate/1000.);
+
+g = clamp(gain, 0., 0.9999);
+
+delay1 = delay_1.read(del_time) * g;
+
+feedback = Xn + delay1;
+
+//LOWPASS
+
+omega = ((freqcut * twopi)) / samplerate;
+cosw = cos(omega);
+cosq = cosw * cosw;
+alpha = (cosw - 1.) + (sqrt((cosq - (4. * cosw)) + 3.));
+mul_1 = (1. - alpha) * history_1;
+
+  Yn = mul_1 + (feedback * alpha);
+
+history_1_2 = fixdenorm(Yn);
+history_1 = history_1_2;
+delay_1.write(feedback);
+
+    return Yn;
+}
