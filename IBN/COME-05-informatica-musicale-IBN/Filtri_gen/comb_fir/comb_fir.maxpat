@@ -44,36 +44,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1143.0, 284.0, 70.0, 21.0 ],
+					"patching_rect" : [ 1161.0, 333.0, 70.0, 21.0 ],
 					"text" : "COMB FIR",
 					"textcolor" : [ 0.996078431372549, 0.996078431372549, 0.996078431372549, 1.0 ],
 					"textjustification" : 1
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-18",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 1143.0, 458.0, 70.0, 21.0 ],
-					"text" : "COMB IIR",
-					"textcolor" : [ 0.996078431372549, 0.996078431372549, 0.996078431372549, 1.0 ],
-					"textjustification" : 1
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"domain" : [ 0.0, 20000.0 ],
-					"fgcolor" : [ 0.749019607843137, 0.949019607843137, 0.019607843137255, 1.0 ],
-					"id" : "obj-2",
-					"maxclass" : "spectroscope~",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 700.0, 450.0, 513.0, 171.0 ]
 				}
 
 			}
@@ -86,7 +60,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 857.5, 201.0, 50.0, 23.0 ]
+					"patching_rect" : [ 875.5, 250.0, 50.0, 23.0 ]
 				}
 
 			}
@@ -97,7 +71,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 857.5, 158.0, 29.5, 23.0 ],
+					"patching_rect" : [ 875.5, 207.0, 29.5, 23.0 ],
 					"text" : "1"
 				}
 
@@ -109,7 +83,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1015.0, 158.0, 39.0, 23.0 ],
+					"patching_rect" : [ 1033.0, 207.0, 39.0, 23.0 ],
 					"text" : "0.999"
 				}
 
@@ -121,7 +95,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 857.5, 118.0, 58.0, 23.0 ],
+					"patching_rect" : [ 875.5, 167.0, 58.0, 23.0 ],
 					"text" : "loadbang"
 				}
 
@@ -133,7 +107,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 746.0, 201.0, 54.0, 21.0 ],
+					"patching_rect" : [ 764.0, 250.0, 54.0, 21.0 ],
 					"text" : "SIGNAL",
 					"textjustification" : 1
 				}
@@ -146,7 +120,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 909.5, 201.0, 28.0, 21.0 ],
+					"patching_rect" : [ 927.5, 250.0, 28.0, 21.0 ],
 					"text" : "ms",
 					"textjustification" : 1
 				}
@@ -159,7 +133,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1067.0, 201.0, 65.0, 21.0 ],
+					"patching_rect" : [ 1085.0, 250.0, 65.0, 21.0 ],
 					"text" : "feedback"
 				}
 
@@ -173,7 +147,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 700.0, 277.0, 513.0, 171.0 ]
+					"patching_rect" : [ 718.0, 326.0, 513.0, 171.0 ]
 				}
 
 			}
@@ -186,7 +160,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1015.0, 201.0, 50.0, 23.0 ]
+					"patching_rect" : [ 1033.0, 250.0, 50.0, 23.0 ]
 				}
 
 			}
@@ -197,7 +171,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 700.0, 201.0, 44.0, 23.0 ],
+					"patching_rect" : [ 718.0, 250.0, 44.0, 23.0 ],
 					"text" : "noise~"
 				}
 
@@ -208,10 +182,10 @@
 					"id" : "obj-4",
 					"maxclass" : "newobj",
 					"numinlets" : 3,
-					"numoutlets" : 2,
-					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 700.0, 240.0, 334.0, 23.0 ],
-					"text" : "gen~ comb_fir_iir"
+					"numoutlets" : 1,
+					"outlettype" : [ "signal" ],
+					"patching_rect" : [ 718.0, 289.0, 334.0, 23.0 ],
+					"text" : "gen~ comb_fir"
 				}
 
 			}
@@ -224,7 +198,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 18.800000000000011, 27.832853240633995, 426.399999999999977, 660.65706051873201 ],
 					"rendermode" : 0,
-					"url" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_iir_vs_fir/"
+					"url" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_fir/"
 				}
 
 			}
@@ -243,32 +217,6 @@
 				}
 
 			}
-, 			{
-				"box" : 				{
-					"fontsize" : 4.0,
-					"id" : "obj-12",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 133.0, 15.0, 25.0, 13.0 ],
-					"text" : "loadbang"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontsize" : 4.0,
-					"id" : "obj-281",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 17.0, 15.0, 120.0, 13.0 ],
-					"text" : "url https://velitch.github.io/velitch/2021-10-19-tool_gen_biquad/"
-				}
-
-			}
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
@@ -283,13 +231,6 @@
 					"destination" : [ "obj-15", 0 ],
 					"order" : 1,
 					"source" : [ "obj-11", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-281", 0 ],
-					"source" : [ "obj-12", 0 ]
 				}
 
 			}
@@ -316,22 +257,8 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-244", 0 ],
-					"source" : [ "obj-281", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-4", 0 ],
 					"source" : [ "obj-3", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-2", 0 ],
-					"source" : [ "obj-4", 1 ]
 				}
 
 			}
@@ -351,8 +278,8 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "comb_fir_iir.gendsp",
-				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/comb_fir_irr",
+				"name" : "comb_fir.gendsp",
+				"bootpath" : "D:/Git BN_Musica_Elettronica/IBN/COME-05-informatica-musicale-IBN/Filtri_gen/comb_fir",
 				"patcherrelativepath" : ".",
 				"type" : "gDSP",
 				"implicit" : 1
