@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 27.0, 84.0, 1468.0, 713.0 ],
+		"rect" : [ 34.0, 77.0, 1468.0, 713.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -303,7 +303,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 18.800000000000011, 27.832853240633995, 426.399999999999977, 660.65706051873201 ],
 					"rendermode" : 0,
-					"url" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_iir_vs_fir/"
+					"url" : "https://velitch.github.io/velitch/2021-10-19-tool_gen_combfilter/"
 				}
 
 			}
