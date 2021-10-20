@@ -274,6 +274,7 @@
 					"domain" : [ 0.0, 20000.0 ],
 					"fgcolor" : [ 0.749019607843137, 0.949019607843137, 0.019607843137255, 1.0 ],
 					"id" : "obj-83",
+					"logfreq" : 1,
 					"maxclass" : "spectroscope~",
 					"numinlets" : 2,
 					"numoutlets" : 1,
