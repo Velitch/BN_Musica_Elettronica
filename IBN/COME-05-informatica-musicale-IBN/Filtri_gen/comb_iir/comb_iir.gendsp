@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "dsp.gen",
-		"rect" : [ 130.0, 202.0, 348.0, 321.0 ],
+		"rect" : [ 634.0, 281.0, 348.0, 321.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -126,8 +126,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 82.0, 279.0, 123.0, 23.0 ],
-					"text" : "out 1 @comment FIR"
+					"patching_rect" : [ 82.0, 279.0, 119.0, 23.0 ],
+					"text" : "out 1 @comment IIR"
 				}
 
 			}
