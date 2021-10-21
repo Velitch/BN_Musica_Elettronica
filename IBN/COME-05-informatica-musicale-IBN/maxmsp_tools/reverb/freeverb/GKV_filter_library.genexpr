@@ -17,6 +17,7 @@
 // 3. ALLPASS
 //   3.1 - allpass_T60 (Xn, ms, T60)
 //   3.2 - allpass_g (Xn, ms, gain)
+//   3.3 - allpass_samp (Xn, samp, gain)
 //
 // 4. COMB FILTER
 //   4.1 - comb_iir (Xn, ms, gain)
@@ -130,6 +131,26 @@ delay_1.write(feedback + Xn);
 
     return Yn;
 }
+
+//=====================================
+//  3.3
+//=====================================
+
+allpass_samp (Xn, samp, gain)
+
+{
+Delay delay_1(samplerate);
+g = clamp(gain, 0., 0.999);
+menog = (-1.) * g;
+feedback = (delay_1.read(samp)) * menog;
+
+  Yn = (delay_1.read(samp)) + ((feedback + Xn) * g);
+
+delay_1.write(feedback + Xn);
+
+    return Yn;
+}
+
 
 //=====================================
 //  4.

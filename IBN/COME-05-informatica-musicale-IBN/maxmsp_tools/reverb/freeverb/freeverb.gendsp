@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "dsp.gen",
-		"rect" : [ 302.0, 193.0, 706.0, 503.0 ],
+		"rect" : [ 143.0, 160.0, 1188.0, 503.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,73 +40,40 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-10",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 382.0, 413.0, 25.0, 22.0 ],
-					"text" : "/ 8."
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-9",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 547.0, 413.0, 25.0, 22.0 ],
-					"text" : "/ 8."
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-8",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 217.0, 413.0, 25.0, 22.0 ],
-					"text" : "/ 8."
-				}
-
-			}
-, 			{
-				"box" : 				{
+					"code" : "require \"GKV_filter_library\";\r\n\r\n\r\n//fbcomb_lp_samp (Xn, samp, gain, freqcut)\r\nlbcf1 = fbcomb_lp_samp (in1, (1557 + 23), 0.84, 8000.);\r\nlbcf2 = fbcomb_lp_samp (in1, (1617 + 23), 0.84, 8000.);\r\nlbcf3 = fbcomb_lp_samp (in1, (1491 + 23), 0.84, 8000.);\r\nlbcf4 = fbcomb_lp_samp (in1, (1422 + 23), 0.84, 8000.);\r\nlbcf5 = fbcomb_lp_samp (in1, (1277 + 23), 0.84, 8000.);\r\nlbcf6 = fbcomb_lp_samp (in1, (1356 + 23), 0.84, 8000.);\r\nlbcf7 = fbcomb_lp_samp (in1, (1188 + 23), 0.84, 8000.);\r\nlbcf8 = fbcomb_lp_samp (in1, (1116 + 23), 0.84, 8000.);\r\n\r\nlbcfTOT1 = lbcf1 + lbcf2 + lbcf3 + lbcf4;\r\nlbcfTOT2 = lbcf5 + lbcf6 + lbcf7 + lbcf8;\r\n\r\nlbcfTOT = lbcfTOT1 + lbcfTOT2;\r\n\r\n//allpass_samp (Xn, samp, gain)\r\nap1 = allpass_samp (lbcfTOT, 225, 0.5);\r\nap2 = allpass_samp (lbcfTOT, 556, 0.5);\r\nap3 = allpass_samp (lbcfTOT, 441, 0.5);\r\nap4 = allpass_samp (lbcfTOT, 341, 0.5);\r\n\r\nout1 = ap4;\r\n\r\n\r\n\r\n",
+					"fontface" : 0,
+					"fontname" : "<Monospaced>",
+					"fontsize" : 12.0,
 					"id" : "obj-7",
-					"maxclass" : "newobj",
+					"maxclass" : "codebox",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 52.0, 413.0, 25.0, 22.0 ],
-					"text" : "/ 8."
+					"patching_rect" : [ 581.0, 68.0, 521.0, 345.0 ]
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"color" : [ 0.949019607843137, 0.019607843137255, 0.392156862745098, 1.0 ],
 					"id" : "obj-6",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 547.0, 444.0, 112.0, 22.0 ],
-					"text" : "out 4 @comment D"
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 581.0, 426.0, 25.0, 22.0 ],
+					"text" : "/ 8."
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"color" : [ 0.949019607843137, 0.019607843137255, 0.392156862745098, 1.0 ],
 					"id" : "obj-3",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 382.0, 444.0, 112.0, 22.0 ],
-					"text" : "out 3 @comment C"
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 52.0, 426.0, 25.0, 22.0 ],
+					"text" : "/ 8."
 				}
 
 			}
@@ -117,23 +84,23 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 217.0, 444.0, 111.0, 22.0 ],
-					"text" : "out 2 @comment B"
+					"patching_rect" : [ 581.0, 464.0, 131.0, 22.0 ],
+					"text" : "out 2 @comment Right"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"code" : "require \"GKV_filter_library\";\r\n\r\n\r\n//allpass_gain (Xn, ms, gain)\r\nallpass1 = allpass_g (in1, 347, 0.7);\r\nallpass2 = allpass_g (allpass1, 313, 0.7);\r\nallpass3 = allpass_g (allpass2, 37, 0.7);\r\n\r\n//fbcomb_lp_g (Xn, ms, gain, freqcut)\r\nx1 = fbcomb_lp_samp (allpass3, 1687, 0.773, 8000.);\r\nx2 = fbcomb_lp_samp (allpass3, 1601, 0.802, 8000.);\r\nx3 = fbcomb_lp_samp (allpass3, 2053, 0.753, 8000.);\r\nx4 = fbcomb_lp_samp (allpass3, 2251, 0.733, 8000.);\r\n\r\n//MM\r\ns1 = x1 + x3;\r\ns2 = x2 + x4;\r\n\r\nout1 = s1 + s2;\r\nout2 = -out1;\r\nout4 = s1 - s2;\r\nout3 = -out4;\r\n",
+					"code" : "require \"GKV_filter_library\";\r\n\r\n\r\n//fbcomb_lp_samp (Xn, samp, gain, freqcut)\r\nlbcf1 = fbcomb_lp_samp (in1, 1557, 0.84, 8000.);\r\nlbcf2 = fbcomb_lp_samp (in1, 1617, 0.84, 8000.);\r\nlbcf3 = fbcomb_lp_samp (in1, 1491, 0.84, 8000.);\r\nlbcf4 = fbcomb_lp_samp (in1, 1422, 0.84, 8000.);\r\nlbcf5 = fbcomb_lp_samp (in1, 1277, 0.84, 8000.);\r\nlbcf6 = fbcomb_lp_samp (in1, 1356, 0.84, 8000.);\r\nlbcf7 = fbcomb_lp_samp (in1, 1188, 0.84, 8000.);\r\nlbcf8 = fbcomb_lp_samp (in1, 1116, 0.84, 8000.);\r\n\r\nlbcfTOT1 = lbcf1 + lbcf2 + lbcf3 + lbcf4;\r\nlbcfTOT2 = lbcf5 + lbcf6 + lbcf7 + lbcf8;\r\n\r\nlbcfTOT = lbcfTOT1 + lbcfTOT2;\r\n\r\n//allpass_samp (Xn, samp, gain)\r\nap1 = allpass_samp (lbcfTOT, 225, 0.5);\r\nap2 = allpass_samp (lbcfTOT, 556, 0.5);\r\nap3 = allpass_samp (lbcfTOT, 441, 0.5);\r\nap4 = allpass_samp (lbcfTOT, 341, 0.5);\r\n\r\nout1 = ap4;\r\n\r\n\r\n\r\n",
 					"fontface" : 0,
 					"fontname" : "<Monospaced>",
 					"fontsize" : 12.0,
 					"id" : "obj-5",
 					"maxclass" : "codebox",
 					"numinlets" : 1,
-					"numoutlets" : 4,
-					"outlettype" : [ "", "", "", "" ],
-					"patching_rect" : [ 52.0, 80.0, 514.0, 324.0 ]
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 52.0, 68.0, 515.0, 345.0 ]
 				}
 
 			}
@@ -157,8 +124,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 52.0, 444.0, 111.0, 22.0 ],
-					"text" : "out 1 @comment A"
+					"patching_rect" : [ 52.0, 464.0, 123.0, 22.0 ],
+					"text" : "out 1 @comment Left"
 				}
 
 			}
@@ -166,63 +133,44 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-5", 0 ],
+					"order" : 1,
 					"source" : [ "obj-1", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-3", 0 ],
-					"source" : [ "obj-10", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-10", 0 ],
-					"source" : [ "obj-5", 2 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
-					"source" : [ "obj-5", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-8", 0 ],
-					"source" : [ "obj-5", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-9", 0 ],
-					"source" : [ "obj-5", 3 ]
+					"order" : 0,
+					"source" : [ "obj-1", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-4", 0 ],
-					"source" : [ "obj-7", 0 ]
+					"source" : [ "obj-3", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"source" : [ "obj-5", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
-					"source" : [ "obj-8", 0 ]
+					"source" : [ "obj-6", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-6", 0 ],
-					"source" : [ "obj-9", 0 ]
+					"source" : [ "obj-7", 0 ]
 				}
 
 			}
